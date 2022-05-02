@@ -4,6 +4,7 @@ There are some teams in our course project:
 
 *  [Team B](https://csci3251-2022.github.io/project-team-b/)
 *  [Team G](https://csci3251-2022.github.io/project-team-g/)
+*  [Team D](https://csci3251-2022.github.io/project-team-d/)
   
 For more details, contact @chuckjee regarding course issues.
 
